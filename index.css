@@ -1,0 +1,19 @@
+Form {
+    width:500px;
+    text-align:center;
+}
+.input{
+    width:100;
+}
+input,textarea{
+    border:10px;
+}
+p{
+    color:black;
+    text-align: center;
+}
+h1{
+    font-size:30px;
+    margin:0px;
+    text-align:center;
+}
